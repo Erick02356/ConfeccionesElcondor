@@ -1,0 +1,15 @@
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\eick0\source\repos\ConfeccionesElcondor\CapaPresentacion\obj\Debug\CapaPresentacion.Empleados.resources
